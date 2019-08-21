@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  font-family: 'Vollkorn', serif;
+}
+.dark-background {
+  background-color: #1a1f46;
+}
+
+.light-background {
+  background-color: #ffffff;
+}
+.btn-secondary{
+  width: 7%;
+  float: right;
+  border-radius: 50px;
+  border: 1px;
+  background-image: linear-gradient(to right, #8aa5d0, #92a37a);
+
+}
+.card-right .btn-secondary:hover{
+  background: #000;
+}
+.btn-primary{
+  width: 7%;
+  float: right;
+  border-radius: 50px;
+  border: 1px;
+  background-image: linear-gradient(to right, #92a37a, #ebc55a);
+}
+.card-right .btn-primary:hover{
+  background: #000;
+}
+.intro {
+  text-align: left;
+}
+.jumbotron h1 {
+  font-family: 'Abril Fatface', cursive;
+}
+.card {
+  border: none;
+}
+.force-left {
+  text-align: left;
+}
